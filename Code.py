@@ -1,5 +1,4 @@
-
-
+#updated
 def display_board():
   print(board[6] + " | " + board[7] + " | " + board[8] + "     7 | 8 | 9\n")
   print(board[3] + " | " + board[4] + " | " + board[5] + "     4 | 5 | 6\n")
