@@ -17,3 +17,6 @@ def check_for_winner():
     winner = diagonal_winner
   else:
     winner = Non
+
+
+#changes done
